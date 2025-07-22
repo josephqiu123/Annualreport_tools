@@ -1,0 +1,479 @@
+Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+Wuxi Lead Intelligent Equipment Co., Ltd.
+2024 Annual Report Summary
+SECTIONI IMPORTANTNOTICE
+Thissummaryoftheannualreportisfromthefulltextoftheannualreport.Tofullyunderstandthebusinessperformance,
+financial condition, and future development planning of the Company, investors should read the full text of the annual
+reportfordetails.
+AllmembersoftheboardofdirectorshaveattendedtheBoardmeetingtoreviewthisreport.
+TheauditopinionofBakerTillyChinaCertifiedPublicAccountantstotheCompanyis:umodifiedopinion
+Change of accounting firm during this reporting period:The Company's accounting firm for this year is still Baker Tilly China
+CertifiedPublicAccountants.
+Non-standardauditopinionreminder
+□ApplicableNotApplicable
+Thecompanywasnotprofitableatthetimeofitslistingandiscurrentlystillnotprofitable.
+□ApplicableNotApplicable
+Profit distribution plan or plan for converting capital reserve to share capital for the reporting period reviewed by the
+boardofdirectors
+Applicable□NotApplicable
+The profit distribution plan approved by the board of directors this time is as follows: based on total share capital of
+1,554,889,537, a cash dividend of 0.56 RMB (including tax) will be distributed to all shareholders for every 10 shares, with 0
+bonus shares (including tax) given, and 0 additional shares will be issued to all shareholders for every 10 shares using capital
+reserves.
+Theprofitdistributionplanforpreferredsharesapprovedbytheboardofdirectorsduringthisreportingperiod
+□Applicable☑NotApplicable
+SECTIONII COMPANYPROFILE
+1.CompanyProfile
+Stockname LEADINTELLIGENT Stockcode 300450
+Stockexchange ShenzhenStockExchange
+Contactpersonandmeansofcontact SecretaryoftheBoard Securitiesaffairsrepresentative
+Name YaoYao ZhuQi
+No. 18 Xinzhou Rd., Xinwu District, No. 18 Xinzhou Rd., Xinwu District,
+Officeaddress
+Wuxi,JiangsuProvince Wuxi,JiangsuProvince
+Fax 0510-81163648 0510-81163648
+Telephone 0510-81163600 0510-81163600
+Email lead@leadintelligent.com lead@leadintelligent.com
+2.MainBusiness/ProductsoftheCompanyduringtheReportingPeriod
+(1)Mainbusinessandproducts
+TheCompanyspecializesintheR&D,manufacture,andsalesofhigh-endnon-standardintelligentequipment.Itfocuseson
+"new energy + high-end equipment" and is a world-leading provider of new energy intelligent manufacturing solutions. The
+1/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+Company covers lithium battery intelligent equipment, photovoltaic intelligent equipment, 3C intelligent equipment, intelligent
+logistics, automobile intelligent production line, hydrogen energy equipment, laser precision processing equipment, etc., and is
+abletoprovidecustomerswithsmartfactoryturnkeysolutionsintegratingproductionandservice.
+1. Lithium-ion battery intelligent equipment: Offers lithium battery manufacturing equipment and whole line solutions.
+Themainproductsinclude:newslurrymixingsystem,dryelectrodeprocessingsystem,coatingmachine,calendaring(andslitting)
+machine,notchingmachine,windingmachine,stackingmachine(includingcuttingandstackingmachine,heatlaminationstacking
+machine),cellassemblyline,formationandgradingsystem,magnetronsputteringcoatingmachine,electrolytemembraneforming
+machine, anode lithiation machine, densification machine, etc. LEAD's whole-line intelligent manufacturing solutions cover
+varioustypesofbatteries,includingcylindrical,prismatic,pouch,solid-state,andsodium-ionbatteries,andapplytothebatteries
+of electrical vehicles, energy storage, and consumer electronics. Furthermore, LEAD's independently developed LEADACE
+intelligent manufacturing platform, with equipment predictive maintenance and product quality improvement at its core, helps
+creatingintelligentfactoriesforcustomers.
+2. Photovoltaic intelligent equipment: Provides photovoltaic module and photovoltaic cell manufacturing equipment and
+whole-line solutions. LEAD's photovoltaic module intelligent equipment includes BC/0BB/SMBB stringer, cutting stringer,
+shinglingweldingmachine,busbarweldingmachine,IBCstringer,andmoduleproductionlinesolution,etc.Thephotovoltaiccell
+intelligent equipment includes screen printing machine, sintering machine, inspection and sorting machine, texturing/alkaline
+polishing/cleaning/BSG removal/PSG removal wet process machine, as well as whole-line solutions for TOPCon, HJT, XBC,
+perovskite,andotherphotovoltaiccells.
+3. 3C intelligent equipment: The subsidiary LeadTech provides a series of 3C production intelligent equipment featuring
+self-developed3D+AIvisionalgorithm(HySmart),precisionfluidtechnology(HyFluid),andintegratedtestplatform(HyTest).Its
+equipment includemachinesfor visionmeasurement, AI defect detection, five-axis high-speed dispensing, highvolume sealing,
+camera test, electrical test, reliability test, and 3D assembly. The main applications cover the three major areas of consumer
+electronics (MR, TWS, watch, smartphone, digital stylus, tablets, etc.), intelligent vehicles (Pack & CTP, intelligent electric
+vehicle,intelligentcabin,intelligentdriving,etc.),anddigitalenergy(containerenergystoragesystem,ultra-fastchargingstation,
+etc.).
+4. Intelligent logistics system: The subsidiary Lead Logistics focuses on "flexible manufacturing" and "smart
+manufacturing”. It helps customers to solve problems of warehousing and production logistics management, improve the
+efficiency of logistics storage and transfer, and achieve digital operation. The company offers one-stop integrated logistics
+solutions from consulting, design, planning, manufacturing, installation, commissioning and upgrading. (1) Intelligent
+warehousingsolutionsinclude: stacker cranes, conveyors,shuttles/AGVs,robots,etc.;(2) Productionlogisticssolutionsinclude:
+2/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+flexible conveyor system, palletizing and sorting machine, intelligent handling machine, etc.; (3) Distribution center solutions
+include: packing and unpacking robot, automatic unpacking machine, high-speed sorting machine, etc.; (4) Digital software
+solutions include: logistics middle interface system (LMIS), flexible manufacturing system (FMS), warehouse management
+system(WMS),warehousecontrolsystem(WCS),andAGVcontrolsystem(ACS).
+5. Automotive smart production line: Focuses on the five areas of Pack & CTP, intelligent electric vehicles, intelligent
+cabins, bodywork system, and intelligent driving, and provides customers with comprehensive solutions for fluid, testing, and
+automatedassemblyofrelatedcomponents.
+6 Hydrogen energy equipment: The subsidiary LHI provides comprehensive solutions for the whole hydrogen energy
+industry chain, including fuel cell production machine, PEM/AEM/ALK electrolyzer production machine, hydrogen testing
+machine,andperovskitesolarcell productionmachine.ThecoreproductlinesincludePEMandGDLproductionline,precision
+slotdiecoatingmachineformultiplesubstrates,MEAprocessingline,stackassemblyline,andIDChydrogentestingproducts.
+7. Laser precision processing equipment: The subsidiary LeadLaser is committed to high-precision numerical control
+system, and offers fine micro-processing, measurement and automation solutions for semiconductor, consumer electronics, and
+new display industries. (1) Semiconductor groups: Provides semiconductor FE-BE, stealth dicing, marking, cutting, and special
+applicationssuchas3DTSV/TGV;(2)Consumerelectronics:ItoffersacomprehensivesolutioninthetraditionalPCB/FPCand
+3Cfields;(3)Newdisplay:ItappliesinnovativelasersolutionstoLCD/OLED/MicroLED.
+(2)Basicindustrycondition
+TheCompanyspecializesintheR&D,manufacture,andsalesofhigh-endnon-standardintelligentequipment.Itengagesin
+the Intelligent Equipment Manufacturing Industry, mainly involving lithium-ion battery intelligent equipment, photovoltaic
+intelligent equipment, 3Cequipment,automobileautomationproductionline,hydrogen energy equipment,etc. Accordingtothe
+"Guidelinesfor IndustryClassificationof Listed Companies" issuedbytheChinaSecuritiesRegulatoryCommission(CSRC) in
+October2012,thecompanyfallsintothe"C35SpecialEquipmentManufacturingIndustry."
+(3)Industrystatusquoandfuturetrends
+1.Lithium-ionbatteryequipmentindustry
+The lithium-ion battery includes EV, energy storage, and digital types, and the lithium-ion battery equipment industry
+providesspecializedequipmenttodownstreambatterymanufacturers.
+EVbattery:2024witnessedthegrowthoftheglobalnewenergydemandandindustrysize.However,duetotheshort-term
+mismatch between supply and demand, the production expansion of Chinese EV battery manufacturers was affected to varying
+degrees,andthedemandforandacceptanceofEVbatteryequipmentwereunderpressure.InMay2024,theMinistryofIndustry
+and Information Technology solicitedpublic opinionson the"Specifications ofthe Lithium-ion Battery ManufacturingIndustry
+3/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+(2024Edition),"intendingtoguidelithium-ionbatterycompaniestoreducemanufacturingprojectsthatsimplyexpandproduction
+capacity,strengthentechnologicalinnovation,improveproductquality,andreduceproductioncosts.Sincethesecondhalfof2024,
+with the gradual resumption of production expansion plans by leading lithium-ion battery manufacturers, the demand for EV
+batteryequipmentgraduallyrecovered.AccordingtothestatisticsfromFrost&Sullivan,theglobalmarketofLi-ionbatterysmart
+equipmentreboundedto33.3RMBbillioninthesecondhalfof2024,agrowthof28.0%comparedtothefirsthalf.
+Intermsofoverseasmarkets,accordingtoEVTank,theglobaltotalsalesofnewenergyvehiclesin2024reached18,236,000
+vehicles, a year-on-year increase of 24.4%; the global EV battery shipments reached 1051.2 GWh, a year-on-year growth of
+21.5%. Among them, China’s EV battery export stood at 133.7 GWh, up by 5.0% year on year, according to the China
+AutomotivePowerBatteryIndustryInnovationAlliance.Inthemediumtolongterm,theoverseasbatterymarketstilloffersvast
+demand.TopChinesebatterycompaniesareacceleratingtheiroverseasexpansion,andcurrentoverseasexpansionprojectshave
+enteredasubstantialphase.Chineseequipmentmanufacturerswithglobalcompetitivenesshavegreatpotentialforgrowthinthe
+overseasmarket.
+Inaddition,thelithium-ionbatterydemonstratesanewtechnologicaltrendfeaturingtheapplicationofvariousbatterytypes.
+Thesolid-statebatterypossessestwosignificantadvantages,highenergydensityandgreatsafety, makingitthepreferredpower
+source for high-end new energy vehicle models and low-altitude eVTOLs. With the development of artificial intelligence,
+aerospace,andotherfields,solid-statebatterieswillhavemoreapplicationscenarios.Accordingtosecuritiesfirmresearchreports,
+itispredictedthatthedemandfor pilotlineequipmentofsolid-statebatterieswillsignificantlyincreasefrom2025to2026,and
+massproductionofsolid-statebatterieswillbeginin2027.Besides,thetablesscylindricalbattery,withitsexcellentchargingand
+discharging rate, and cycling performance, isexpected topenetrate emerging markets such as eVTOL and robots. According to
+research reports,2025isexpected tosee asignificantincrease inthetablesscylindrical batteryproduction. Moreover, duetoits
+resourceabundanceandratherhighsafety,thesodium-ionbattery hasattractedhugeinvestmentsandresearchresources.Itshows
+market potential for application in micro-cars, motorcycles, car jump starters, PHEVs, and commercial vehicles. According to
+statisticsfromtheresearchagencySPIR,globalsodium-ionbatteryshipmentsreached3.6GWhin2024,ayear-on-yeargrowthof
+260%.
+Energy storage battery: In the context of carbon neutrality, promoting an energy revolution and building a new power
+systembasedonnewenergyhavebecomeaglobalconsensus.Asacrucialmeanstoenhancethestabilityofthepowergrid,new
+energy storage is at the core of achieving dynamic balance between power supply and demand. In recent years, China has
+successivelyintroducedmultiplepoliciestopromotethedevelopmentofthenewenergystorageindustry,suchasthe"Guidelines
+onAcceleratingtheDevelopmentofNewEnergyStorage"andthe"ImplementationofNewEnergyStorageDevelopmentinthe
+14thFive-YearPlanPeriod,"whichclearlydefinethegoalsandtasksofnewenergystoragedevelopment.Localauthoritieshave
+4/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+also introduced local policiesto specify theconstructionofenergy storage projects. Meanwhile, with thecontinuousincrease in
+energy storage demand from power generation, power grid, and end users, the industrialization process of new energy storage
+technologies is accelerating comprehensively. According to the National Energy Administration and the China Energy Storage
+Alliance, the newly installed capacity of new energy storage in 2024 was approximately 101GWh. The accumulated installed
+capacity of new energy storage projects nationwide that have been completed and put into operation has reached 168GWh,
+representingagrowthofover130%comparedtotheendof2023.Thegrowthoftheenergystoragemarkethasdriventheincrease
+in the shipment of energy storage batteries. According to the China Energy Storage Battery Industry White Paper (2025), the
+globalenergy-storagelithium-ionbatteryshipmentsreached369.8GWhin2024,ayear-on-yearincreaseof64.9%.
+Consumer electronics battery: With expanding consumer electronics market, more diverse application scenarios, and
+increasingconsumer number, China’sconsumer electronicslithium-ion batteryindustryisimproving. Ononehand,thelithium-
+ionbatteryhasarelativelystablemarketsizeinthetraditionalconsumerelectronicssectorssuchaslaptopsandsmartphones.On
+theotherhand,itwillhavemoreopportunitiesintheemergingelectronicssectoraswearabledevices,drones,Bluetoothspeakers,
+AR/VR devices, AIPC, MR devices, and other new electronic products show rapid development. Major manufacturers are also
+actively developing new electronic products with the rise of AI, expecting to lead a new cycle of product innovation in the
+consumerelectronicsindustryandfurtherstimulateconsumerenddemand.AccordingtoSPIR,theglobalshipmentofconsumer
+electronics batteries in 2024reached 66.9Wh, with a year-on-year growth of 6.9%. It isprojected that the consumer electronics
+industrywillcontinuetomaintainaslightandsteadygrowthin2025,drivingtheglobalelectronicsbatteryshipmentstosurpass
+70GWh,ayear-on-yearincreaseof5.8%.
+2.Photovoltaicequipmentindustry
+Thephotovoltaicequipmentindustryprovidesmachinesfortheproductionofphotovoltaiccellsandmodules.
+AccordingtothedatafromtheNationalEnergyAdministration,China’sinstalledcapacityofPVpowerin2024was278GW,
+up by 28% from the previous year, showing a slight slowdown in the growth rate. The Ministry of Industry and Information
+Technology solicited public opinions on the "Specifications of the Photovoltaic Manufacturing Industry (2024 Edition)." The
+China Photovoltaic Industry Association also encouraged mergers and reorganizations, facilitated market exit mechanisms, and
+strengthened efforts to crack down on selling below cost and vicious competition. A series of policy measures released by the
+nationalandlocalgovernmentsareexpectedtooptimizethedevelopmentenvironmentofthephotovoltaicmanufacturingindustry
+andpromoteitshealthyandorderlydevelopment.
+3.3Cequipmentindustry
+The3Cequipmentindustryprovidesmachinesofvisualmeasurement,AIdefectdetection,precisionfluid,3Dassembly,and
+imagingtestingfortheconsumerelectronics,smartautomobile,anddigitalenergyindustries.
+5/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+Consumer electronics: In 2024, the consumer electronics industry showed a certain recovery, driving the upstream and
+downstream of the industrial chain to improve. According to the data from Canalys and Techlnsights, the global smartphone
+shipments reached 1.22 billion units in 2024, with a year-on-year growth of 7%. The global laptop shipments reached 203.7
+millionunits,ayear-on-yeargrowthof5%.Furthermore,emergingelectronicsectorssuchaswearabledevices,consumerdrones,
+Bluetoothspeakers,andAR/VRdevicescontinuetodemonstraterapiddevelopmenttrends.WiththeriseofAI,majorelectronics
+manufacturersarealsoactivelyexploringnewopportunitiestointegratewithlarge-scaleAImodels,expectingtoleadanewcycle
+ofproductinnovationinconsumerelectronics,andtherebystimulatingfurthergrowthinconsumerdemand.Accordingtothedata
+from Wellsenn,theglobalsalesofAI smart glasses reached1.52 millionpairsin2024, andareexpected togrowto3.5million
+pairsin2025,upby230%yearonyear.
+Smartautomobile:Inrecentyears,asChinacontinuestointroducepoliciestosupportthecommercializationofautonomous
+driving, theintelligent automobileindustryhas been developingat a faster pace. In January, 2024, the Ministryof Industry and
+InformationTechnology,theMinistryofPublicSecurity,theMinistryofNaturalResources,theMinistryofHousingandUrban-
+Rural Development, and theMinistry of Transport jointly issued the "Notice on Carrying out Pilot Work on the Application of
+Vehicle-Road-CloudIntegrationofIntelligentConnectedVehicles,"promotingthelarge-scaleindustrialapplicationofICVs.On
+July 1, 2024, the Ministry of Industry and Information Technology, the Ministry of Public Security, and three other ministries
+identified the first batch of 20 cities as pilot cities for the vehicle-road-cloud integration application. With the orderly
+implementationofthepilotwork,itwillpromotethefunctionsandperformanceofICVs,aswellastheiterationoftheindustry
+ecosystem,thuspromotingthehigh-qualitydevelopmentofChina'sICVindustry.
+Digital energy: Digital energy represents the deep integration of Internet of Things technology and theenergy industry. It
+enablesthephysical worldtoconnect with thedigital worldthrough theIoTaccessof energy facilities.With thesupportof big
+data and AI, it enables the interaction between information flow and energy flow. This enables the breakthrough of energy
+categoriesandboundaries,amplifiestheefficiencyoffacilities,andoptimizescategorycoordination.Itisaneffectiveapproachto
+support the construction of modern energy systems. According to the report In-depth Analysis and Development Prospects of
+China's Digital Energy Industry from 2024 to 2029 published by the ChinaIRN, the digitalization market of the global energy
+sectorisprojectedtogrowto64billionUSDby2025.Thedigitaltechnologiesinvolvedincludebigdata,machinelearning,AI,
+cloudcomputing,blockchain,andmore.
+4.Automotiveproductionlineautomationequipmentindustry
+Theautomotiveproductionlineautomationequipmentindustryprovidesdedicatedmachinesforcellmoduleassemblylines,
+PACKlines,andelectricdriveproductionlines.
+6/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+Theautomotiveindustryhasarelativelyhighlevelofautomation,andimprovesassemblyqualityandshortenstheproduction
+cyclethroughmodularproduction.Inthepastwhenthenewenergyvehicleindustrywasstillatthegrowthstage,theautomation
+levelintheproductionandmanufacturingofbatterymodules,PACK,andelectricdriveswasrelativelylow.However,since2020,
+thenewenergyvehicleindustryathomeandabroadhasaccelerated.GloballeadingcarmakerssuchasVolkswagen,BMW,and
+Daimler have expedited their transition to electrification, and the industry scale has rapidly expanded. This has posed higher
+requirementsfortheautomationleveloftheentireproductionline.Theautomotiveindustryisbuildinganewmodularproduction
+platform based on key links such as new energy powertrains (batteries and electric drives). In particular, there is a growing
+demand for smarter and more automated solutions in battery module production lines, PACK production lines, electric drive
+productionlines,andequipmentupgradingofexistingproductionlines.
+5.Hydrogenenergyequipmentindustry
+The hydrogen energy equipment industry provides specialized machines for the production of fuel cells, electrolyzers, and
+hydrogentesting.
+Hydrogen energy, clean and efficient, has a growing value for decarbonization in hard-to-abate sectors, and has attracted
+unprecedentedattentiontoitsroleinpromotingrenewableenergyconsumptionandensuringenergysecurity.In2024,hydrogen
+energypoliciescontinuedtobestrengthened,drivinggreentransitionandenergyrevolution.AsofDecember25,2024,Hydrogen
+World, a hydrogen energy industry data platform, has collected a total of 556 hydrogen energy policies released by local
+governments,anincreaseof105policiescomparedto2023,thesepoliciescovermultipleareas,includingdevelopmentplanning,
+financial support, and project support. As for the production side, renewable hydrogen continues to advance and the scale of
+hydrogen production projects are expanding , as of December 25, 2024, Hydrogen World has included 89 renewable energy
+hydrogen projects in total, an increase of 30 compared to 2023, with a total capacity of 1,145.4 MW. Regarding hydrogen
+refuelingstations,asofDecember25,2024,HydrogenWorldhasrecordedatotalof540stationsthathavebeenbuiltandputinto
+operation,anincreaseof66comparedtotheendof2023.
+(4)Companystatusintheindustry
+LEADcontributedtotheglobalenergytransitionwiththepowerofintelligentmanufacturingin2024.AccordingtoFrost&
+Sullivan,LEADistheworld'slargestproviderofnewenergyintelligentequipmentandsolutionsintermsofthe2024ordervalue,
+with a market share of 9.1%, an increase of 3.3percentage pointsfrom 2023. Among them, itsintelligent equipment for Li-ion
+battery accounted for 22.4% of the global market share and 34.1% of the Chinese market. Its Li-ion battery smart logistics
+equipment was 23.8% of the global market. In addition, LEAD ranked first among global photovoltaic intelligent equipment
+providers in terms of shipment volume of XBC ultra-high speed stringer for photovoltaic module manufacturing. LEAD's self-
+7/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+developedMEAR2Rassembly lineGeneration4canbeusedforfuel cellandelectrolyzer membranemanufacturing,effectively
+promotingtheindustrializationofhydrogenenergyandfuelcells.
+3.MajorAccountingDataandFinancialIndicators
+(1)Majoraccountingdataandfinancialindicatorsinthepastthreeyears
+DoestheCompanyneedtoretrospectivelyadjustorrestateaccountingdataofpreviousyears
+□Yes☑No
+Unit:RMB
+Increaseor
+decreaseover
+Attheendof2024 Attheendof2023 Attheendof2023
+thatofthe
+previousyear
+Totalassets 36,182,558,952.99 35,293,330,312.84 2.52% 32,977,103,065.35
+Netassetsattributabletostockholdersofthe
+11,597,531,383.37 11,848,337,372.87 -2.12% 11,125,213,190.76
+Company
+Increaseor
+decreaseover
+2024 2023 2022
+thatofthe
+previousyear
+Operatingincome 11,855,098,145.55 16,628,361,009.42 -28.71% 13,932,352,081.34
+Netprofitattributabletostockholdersofthe
+286,100,791.80 1,774,565,501.49 -83.88% 2,318,133,360.87
+Company
+Netprofitattributabletostockholdersofthe
+Companyafterdeductingnonrecurringprofitor 360,244,971.24 1,724,509,317.18 -79.11% 2,256,392,871.30
+loss
+Netcashflowfromtheoperatingactivities -1,567,132,795.63 -862,790,560.80 -81.64% 1,691,030,346.50
+Basicearningspershare(RMB/share) 0.1840 1.1311 -83.73% 1.4819
+Dilutedearningspershare(RMB/share) 0.1839 1.1323 -83.76% 1.4813
+ROE 2.44% 15.31% -12.87% 22.55%
+(2)Majoraccountingdatabyquarters
+Unit:RMB
+Q1 Q2 Q3 Q4
+Operatingincome 3,310,928,547.41 2,441,318,963.18 3,359,410,584.45 2,743,440,050.51
+Netprofitattributabletostockholdersofthe
+564,502,405.41 -105,250,353.12 149,227,232.10 -322,378,492.59
+Company
+Netprofitattributabletostockholdersofthe
+551,097,245.23 -103,067,303.04 140,452,457.19 -228,237,428.14
+Companyafterdeductingnonrecurringprofitorloss
+-
+Netcashflowfromtheoperatingactivities -710,246,622.25 -797,233,080.59 1,022,150,493.68
+1,081,803,586.47
+Isthereanysignificantdifferencebetweentheabovefinancialindicatorsortheiraggregatesandthefinancialindicatorsofthe
+disclosedquarterlyreportsandsemi-annualreports
+□Yes☑No
+8/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+4.ShareCapitalandInformationonShareholders
+(1)Totalnumberofholdersofordinaryshares,totalnumberofholdersofpreferredshareswithrestoredvotingrights,and
+shareholdingsoftop10shareholders
+Unit:share
+Total
+Totalnumber
+Totalnumberof numberof
+Totalnumberof ofholdersof
+holdersof holders
+holdersof preferred
+Totalnumberof preferredshares with
+ordinaryshares shareswith
+holdersofordinary withrestored sharesof
+122,246 onemonthprior 112,196 restored 0 0 0
+sharesattheendof votingrightsone special
+totheannual votingrights
+thereportingperiod monthpriortothe voting
+reportdisclosure attheendof
+annualreport rights
+date thereporting
+disclosuredate shares(if
+period
+any)
+Shareholdingsofthetop10shareholders(excludingshareslentthroughstockpledgedrepotransaction)
+Numberof Pledged,marked,orfrozen
+Natureof Shareholding
+Nameofshareholders Numberofsharesheld restricted
+shareholders proportion Sharestatus Number
+sharesheld
+Domestic
+LhasaXindao
+non-state- Not
+VentureCapitalCo., 21.46% 336,039,506.00 0.00 0.00
+ownedlegal applicable
+Ltd.
+person
+ShanghaiZhuoAo Domestic
+Enterprise non-state- Not
+5.88% 92,041,983.00 0.00 0.00
+Management ownedlegal applicable
+(LimitedPartnership) person
+Domestic
+Contemporary
+non-state- Not
+AmperexTechnology 5.00% 78,308,051.00 0.00 0.00
+ownedlegal applicable
+Co.,Ltd.
+person
+Domestic
+WuxiYuxi non-state- Not
+4.43% 69,414,157.00 0.00 0.00
+TechnologyCo.,Ltd. ownedlegal applicable
+person
+HongKong
+SecuritiesClearing Overseas Not
+2.60% 40,765,035.00 0.00 0.00
+CompanyLtd. legalperson applicable
+(HKSCC)
+Industrialand
+CommercialBankof
+China(ICBC)-E
+Not
+FundChiNextBoard Others 1.94% 30,311,898.00 0.00 0.00
+applicable
+ExchangeTraded
+IndexSecurities
+InvestmentFund
+ICBC-Huatai-
+PinebridgeCSI300
+Not
+ExchangeTraded Others 1.21% 18,912,450.00 0.00 0.00
+applicable
+IndexSecurities
+InvestmentFund
+ChinaConstruction
+BankCorporation-E Not
+Others 0.83% 13,053,871.00 0.00 0.00
+FundCSI300 applicable
+ExchangeTraded
+9/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+IndexSponsored
+SecuritiesInvestment
+Fund
+ChinaConstruction
+BankCorporation-
+HuaAnChiNext50 Not
+Others 0.81% 12,638,317.00 0.00 0.00
+ExchangeTraded applicable
+IndexSecurities
+InvestmentFund
+Bankof
+Communications-
+ICBCCreditSuisse
+Not
+NewEnergyVehicle Others 0.61% 9,544,830.00 0.00 0.00
+applicable
+ThemeMixed
+SecuritiesInvestment
+Fund
+Explanationofassociationsor LhasaXindaoVentureCapitalCo.,Ltd.,ShanghaiZhuoAoEnterpriseManagement(Limited
+concertedactionsoftheabove Partnership),andWuxiYuxiTechnologyCo.,Ltd.areallcontrolledbyWangYanqing,the
+shareholders actualcontrolleroftheCompany.
+Thesituationofshareholderswithmorethan5%shares,thetop10shareholders,andthetop10unrestrictedcirculating
+shareholdersparticipatinginstockpledgedrepotransactionsbylendingtheirshares
+Applicable□NotApplicable
+Unit:share
+Thesituationofshareholderswithmorethan5%shares,thetop10shareholders,andthetop10unrestrictedcirculatingshareholders
+participatinginstockpledgedrepotransactionsbylendingtheirshares
+Initialordinaryaccount Ordinaryaccountandcredit Lendingsharesandyet
+Initiallendingshares
+andcreditaccount accountshareholdingatthe notrepaidattheendof
+Fullnameof andyetnotrepaid
+shareholdings endoftheperiod theperiod
+shareholders
+Numberof Number Numberof Number
+Percentage Percentage Percentage Percentage
+shares ofshares shares ofshares
+ChinaConstruction
+BankCorporation-
+EFundCSI300
+ExchangeTraded
+2,472,171 0.16% 564,600 0.04% 13,053,871 0.83% 0 0.00%
+IndexSponsored
+Securities
+Investment
+Fund
+ICBC-Huitianfu
+ChinaSecurities
+NewEnergy
+VehicleIndustry
+7,508,016 0.48% 339,900 0.02% 7,667,833 0.49% 0 0.00%
+IndexSponsored
+Securities
+InvestmentFund
+(LOF)
+ChinaConstruction
+BankCorporation-
+HuaAnChiNext50
+8,638,804 0.55% 293,200 0.02% 12,638,317 0.81% 0 0.00%
+ExchangeTraded
+IndexSecurities
+InvestmentFund
+BankofChina-
+HuaxiaChina 7,275,819 0.46% 94,400 0.01% 4,446,519 0.28% 0 0.00%
+SecuritiesNew
+10/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+EnergyVehicle
+ExchangeTraded
+IndexSecurities
+InvestmentFund
+Industrialand
+CommercialBank
+ofChina(ICBC)-
+EFundChiNext
+14,672,816 0.94% 74,700 0.00% 30,311,898 1.94% 0 0.00%
+BoardExchange
+TradedIndex
+Securities
+InvestmentFund
+ICBC-Huatai-
+PinebridgeCSI300
+ExchangeTraded 8,172,150 0.52% 19,500 0.00% 18,912,450 1.21% 0 0.00%
+IndexSecurities
+InvestmentFund
+Thereischangeintop10shareholdersandtop10unrestrictedcirculatingshareholdersduetostockpledgedrepolending/returning.
+□ApplicableNotApplicable
+Doesthecompanyhavearrangementsforvotingrightsdifferences
+□ApplicableNotApplicable
+(2)Totalnumberofpreferredshareholdersandtop10preferredshareholdersoftheCompany
+Thereisnoshareholdingofpreferredshareholdersatthereportingperiod.
+(3)DiagramoftheequityandcontrollingrelationshipbetweentheCompanyandthedefectorcontroller
+11/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+5.CorporateBond
+□ApplicableNotApplicable
+SECTIONIII IMPORTANTEVENTS
+1.OnFebruary2,2024,theCompanyheldthefirstemployeerepresentativemeetingoftheyear.Mr.HuaWeiwaselectedas
+theemployeesupervisoroftheCompany's5thBoardofSupervisors,withatermthesameasthe5thBoardofSupervisors.
+2.OnFebruary19,2024,theCompanyheldthefirst extraordinaryshareholdersmeetingoftheyear.WangYanqing,Wang
+Jianxin, YouZhiliang, andWangLei were elected asnon-independentdirectorsofthe5thBoard ofDirectors. ZhangMingyan,
+Dai Jianjun, and Guo Xiasheng were elected as independent directors of the 5th Board of Directors. Bian Fenxiang and Wang
+Qingyanwereelectedasnon-employeerepresentativesupervisorsofthe5thBoardofSupervisors,withatermofthreeyearsfrom
+thedateofapproval.Onthesameday,theCompanyheldthefirstmeetingofthe5thBoardofDirectorsandthefirstmeetingof
+the 5th Board of Supervisors, respectively approving resolutions about the election of the Chairman, the members of various
+committees of the Board of Directors, and the chairman of the Board of Supervisors, as well as the appointment of senior
+managementpersonnelandsecuritiesaffairsrepresentative.
+3.On February19, 2024,theCompanyheld thefirst extraordinaryshareholdersmeeting oftheyear, approvingresolutions
+suchas"ResolutionontheIssuancePlanforAdditionalDomesticUnderlyingSharesinConnectionwiththeCompany’sOverseas
+GDROffering",andthepromotionofGDRofferingontheSwissStockExchange.
+4.OnApril24,2024,theCompanyheldthesecondmeetingofthe5thBoardofDirectorsandthesecondmeetingofthe5th
+BoardofSupervisors,approvingtheResolutionontheProfitDistributionPlanfor2023.Itwasalsoapprovedatthe2023annual
+generalmeetingheldonMay16,2024.OnJuly1,2024,theCompanycompletedequitydistributionfortheyear2023.
+5.FromOctober30,2023toApril29,2024,Mr.WangYanqingincreasedhisshareholdingby5,925,877sharesthroughcall
+auction,representing0.3811%ofthetotalsharecapitaloftheCompany,withatotalof150,018,062RMB,andanaveragepriceof
+25.32RMB/share.Duringthereportingperiod,Mr.Wang'sshareholdingincreaseplanwassuccessfullycompleted.
+6. As of June 11, 2024, the Company had repurchased a total of 11,273,497 shares through call auction via the stock
+repurchase special securities account, representing 0.7198% of the total share capital of the Company. The highest transaction
+price was 36.61 RMB/share, and the lowest transaction price was 22.75 RMB/share. The total transaction amount was
+350,019,486.68RMB(excludingtransactionfees).Thusfar,theCompany'ssharerepurchaseprogramwasfullyimplemented,and
+thisrepurchasecomplieswiththecompany'srepurchaseproposalandrelevantlawsandregulations.
+12/13Stockcode:300450 Stockname:LEADINTELLIGENT Statementnumber:2025-018
+7.OnSeptember30,2024,theCompanyheldthesixthmeetingofthe5thBoardofDirectorsandthefifthmeetingofthe5th
+Board of Supervisors, reviewing and approving the Resolution on the 2024 Restricted Stock Incentive Plan (Draft) and its
+Summary. On October 18, the second extraordinary shareholders meeting also approved the resolution. The resolution granted
+9,110,300sharesto745incentiverecipientsatagrantpriceof9.25RMB/share.
+13/13

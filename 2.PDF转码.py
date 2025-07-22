@@ -14,6 +14,13 @@ import pdfplumber
 import logging
 import re
 
+import random
+import string
+
+def random_garbled(length=8):
+    return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
+
+
 #日志配置文件
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -69,8 +76,9 @@ def download_pdf(pdf_url, pdf_file_path):
 
 #文件转换
 def convert(code, name, year, pdf_url, pdf_dir, txt_dir, flag_pdf):
-    pdf_file_path = os.path.join(pdf_dir, re.sub(r'[\\/:*?"<>|]', '',f"{code:06}_{name}_{year}.pdf"))
-    txt_file_path = os.path.join(txt_dir, re.sub(r'[\\/:*?"<>|]', '', f"{code:06}_{name}_{year}.txt"))
+    garbled = random_garbled(8)
+    pdf_file_path = os.path.join(pdf_dir, re.sub(r'[\\/:*?"<>|]', '',f"{code:06}_{name}_{year}_{garbled}.pdf"))
+    txt_file_path = os.path.join(txt_dir, re.sub(r'[\\/:*?"<>|]', '', f"{code:06}_{name}_{year}_{garbled}.txt"))
 
     try:
         # 下载PDF文件
@@ -140,13 +148,13 @@ if __name__ == '__main__':
     # 是否删除pdf文件，True为是，False为否
     flag_pdf = False
     # 是否批量处理多个年份，True为是，False为否
-    Flag = True
+    Flag = False
     if Flag:
         #批量下载并转换年份区间
         for year in range(2022,2025):
             # ===========Excel表格路径，建议使用绝对路径，请自行修改！！！！！！！===========
             # 2024年02月14日更新后，此处只需要填写总表的路径，请于网盘或者github中获取总表
-            file_name = f"年报链接_2024【公众号：凌小添】.xlsx"
+            file_name = f"年报链接_2024.xlsx"
             # 创建存储文件的文件夹路径，如有需要请修改
             pdf_dir = f'年报文件/{year}/pdf年报'
             txt_dir = f'年报文件/{year}/txt年报'
@@ -155,9 +163,9 @@ if __name__ == '__main__':
     else:
         #处理单独年份：
         #特定年份的excel表格，请务必修改。
-        year = 2018
-        file_name = f"年报链接2002-2023.xlsx"
-        pdf_dir = f'年报文件/{year}/pdf年报'
-        txt_dir = f'年报文件/{year}/txt年报'
+        year = 2024
+        file_name = f"年报链接-固态电池-2024/links_combined.xlsx"
+        pdf_dir = f'年报文件{year}/pdf年报'
+        txt_dir = f'年报文件{year}/txt年报'
         main(file_name, pdf_dir, txt_dir, flag_pdf,year)
         print(f"{year}年年报处理完毕，若报错，请检查后重新运行")

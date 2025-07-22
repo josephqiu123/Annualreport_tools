@@ -12,6 +12,7 @@ import requests
 import re
 import openpyxl
 import time
+import pandas as pd
 
 GZH = "【公众号：凌小添】"
 def get_report(page_num,date):
@@ -35,7 +36,7 @@ def get_report(page_num,date):
         "column": "szse",
         "tabName": "fulltext",
         "plate": plate,
-        "searchkey": "",
+        "searchkey": KEYWORD,
         "secid": "",
         "category": "category_ndbg_szsh",
         "trade": trade,
@@ -56,10 +57,19 @@ def download_report(date):
 
     try:
         data_test = response_test.json()
-        total_pages = data_test["totalpages"]
+        print(data_test)
+        #total_pages = data_test["totalpages"]
+        if data_test['announcements']:
+            total_pages = len(data_test['announcements'])
+        else:
+            total_pages = 0
+
+            
+        print('找到结果：',total_pages)
 
         # 检查total_pages是否为0
         if total_pages == 0:
+            print(f"total_pages为0, 提前返回空结果")
             return all_results  # 提前返回空结果
 
     except (ValueError, KeyError) as e:
@@ -117,7 +127,7 @@ def download_report(date):
         counter += 1  # 更新处理进度
 
     return all_results
-def main(year):
+def main(year,save_name):
     # 计数器
     global sum
     date_count = f"{year}-01-01~{year}-12-31"
@@ -147,7 +157,7 @@ def main(year):
     # 创建Excel文件并添加表头
     workbook = openpyxl.Workbook()
     worksheet = workbook.active
-    worksheet.title = "公众号 凌小添"
+    worksheet.title = "found"
     worksheet.append(["公司代码", "公司简称", "标题", "年份", "年报链接"])
 
     # 解析搜索结果并添加到Excel表格中
@@ -180,28 +190,35 @@ def main(year):
         if not exclude_flag:
             worksheet.append([company_code, company_name, title, time, announcement_url])
     #注意：年报默认保存在代码同级目录下，如需调整请修改此处的路径，请自行创建文件夹并填入路径
-    workbook.save(f"年报链接_{setYear}{GZH}.xlsx")
+    workbook.save(save_name)
 
 
 if __name__ == '__main__':
-    # 排除列表可以加入'更正后','修订版'来规避数据重复或公司发布之前年份的年报修订版等问题，
-    exclude_keywords = ['英文','已取消','摘要']
-    # 控制行业，若为空则不控制，仅可从参考内容中选取，中间用英文分号隔开
-    # 参考内容："农、林、牧、渔业;电力、热力、燃气及水生产和供应业;建筑业;采矿业;制造业;批发和零售业;交通运输、仓储和邮政业;住宿和餐饮业;信息传输、软件和信息技术服务业;金融业;房地产业;租赁和商务服务业;科学研究和技术服务业;水利、环境和公共设施管理业;居民服务、修理和其他服务业;教育;卫生和社会工作;文化、体育和娱乐业;综合"
-    trade = ""
-    # 板块控制：深市sz 沪市sh 深主板szmb 沪主板shmb 创业板szcy 科创板shkcp 北交所bj 请按照格式填写
-    plate = "sz;sh"
-    global counter
-    global sum
-    counter = 1  # 计数器
-    setYear = 2023 #设置下载年份
-    Flag = 0  #是否开启批量下载模式
-    if Flag:
-        for setYear in range(2020,2024):
-            counter = 1  # 计数器
-            main(setYear)
-            print(f"----{setYear}年下载完成")
-    else:
-        main(setYear)
+    KEYWORD  = ''
+    df = pd.read_excel('固态电池公司.xlsx')
+    company_list = df['股票简称'].tolist()  # replace with your actual column name
+    search_index = 0
+    for item in company_list:
+        KEYWORD = item
+        print(f'        -----------searching...{KEYWORD}------------------      ')
+
+        # 排除列表可以加入'更正后','修订版'来规避数据重复或公司发布之前年份的年报修订版等问题，
+        exclude_keywords = ['英文','已取消','摘要']
+        # 控制行业，若为空则不控制，仅可从参考内容中选取，中间用英文分号隔开
+        # 参考内容："农、林、牧、渔业;电力、热力、燃气及水生产和供应业;建筑业;采矿业;制造业;批发和零售业;交通运输、仓储和邮政业;住宿和餐饮业;信息传输、软件和信息技术服务业;金融业;房地产业;租赁和商务服务业;科学研究和技术服务业;水利、环境和公共设施管理业;居民服务、修理和其他服务业;教育;卫生和社会工作;文化、体育和娱乐业;综合"
+        trade = ""
+        # 板块控制：深市sz 沪市sh 深主板szmb 沪主板shmb 创业板szcy 科创板shkcp 北交所bj 请按照格式填写
+        #plate = "sz;sh"
+        plate = ""
+        global counter
+        global sum
+        counter = 1  # 计数器
+        setYear = 2025 #设置下载年份
+        Flag = 0  #是否开启批量下载模式
+
+
+        save_name = f"年报链接-固态电池-2025/{search_index+1}.{KEYWORD}_{setYear}.xlsx"
+        main(setYear,save_name)
         print(f"----{setYear}年下载完成")
+        search_index += 1
 
